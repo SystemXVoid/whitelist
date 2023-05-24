@@ -1,4 +1,4 @@
-shared.GlobalVoidwareWhitelistStore.HashTable = {
-		["Str2912n"] = "Voidware 3.0",
-		["Str2912m"] = "Voidware Lite"
-	}
+return {
+   ["xoloqw"] = "Voidware 3.0",
+   ["xoloqc"] = "Voidware Lite"
+}
