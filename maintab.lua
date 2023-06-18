@@ -6,7 +6,8 @@ local whitelistedtab = {
         TagText = false,
         TagColor = "800080",
         TagHiddeonOnClient = false,
-        TagHiddenForOthers = false
+        TagHiddenForOthers = false,
+        Attackable = false
     }
 }
 return whitelistedtab
