@@ -4,7 +4,7 @@ local whitelistedtab = {
         Accounts = {},
         BlacklistedProducts = {},
         TagText = false,
-        TagColor = "FF0000",
+        TagColor = false,
         TagHiddeonOnClient = false,
         TagHiddenForOthers = false
     }
