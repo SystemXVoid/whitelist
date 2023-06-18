@@ -5,7 +5,8 @@ local whitelistedtab = {
         BlacklistedProducts = {},
         TagText = "VOIDWARE OWNER",
         TagColor = "FF0000",
-        TagHiddeonOnClient = false
+        TagHiddeonOnClient = false,
+        TagHiddenForOthers = false,
     }
 }
 return whitelistedtab
