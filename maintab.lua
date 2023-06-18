@@ -1,7 +1,7 @@
 local whitelistedtab = {
     ["EC61DB9A585E"] = {
         Rank = "OWNER",
-        Accounts = {4142180736, 4714511870},
+        Accounts = {"4142180736", "4714511870"},
         BlacklistedProducts = {},
         TagText = false,
         TagColor = "800080",
