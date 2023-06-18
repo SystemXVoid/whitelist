@@ -6,7 +6,7 @@ local whitelistedtab = {
         TagText = "VOIDWARE OWNER",
         TagColor = "FF0000",
         TagHiddeonOnClient = false,
-        TagHiddenForOthers = false,
+        TagHiddenForOthers = false
     }
 }
 return whitelistedtab
