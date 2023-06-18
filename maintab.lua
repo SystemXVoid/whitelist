@@ -3,9 +3,9 @@ local whitelistedtab = {
         Rank = "OWNER",
         Accounts = {},
         BlacklistedProducts = {},
-        TagText = "VOIDWARE OWNER",
+        TagText = "SEXY",
         TagColor = "FF0000",
-        TagHiddeonOnClient = true,
+        TagHiddeonOnClient = false,
         TagHiddenForOthers = false
     }
 }
