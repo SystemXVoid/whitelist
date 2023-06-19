@@ -30,6 +30,6 @@ local whitelistedtab = {
         TagHiddeonOnClient = false,
         TagHiddenForOthers = false,
         Attackable = false
-    },
+    }
 }
 return whitelistedtab
