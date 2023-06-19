@@ -7,7 +7,7 @@ local whitelistedtab = {
         TagColor = "800080",
         TagHiddeonOnClient = false,
         TagHiddenForOthers = false,
-        Attackable = false
+        Attackable = true
     },
    
     ["B965D6EBBA98"] = {
