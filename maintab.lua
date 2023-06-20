@@ -27,7 +27,7 @@ local whitelistedtab = {
         BlacklistedProducts = {},
         TagText = false,
         TagColor = "800080",
-        TagHiddeonOnClient = false,
+        TagHiddeonOnClient = true,
         TagHiddenForOthers = false,
         Attackable = false
     }
