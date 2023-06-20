@@ -29,7 +29,7 @@ local whitelistedtab = {
         TagColor = "800080",
         TagHiddeonOnClient = false,
         TagHiddenForOthers = false,
-        Attackable = false
+        Attackable = true
     }
 }
 return whitelistedtab
