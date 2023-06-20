@@ -1,4 +1,4 @@
-local whitelistedtab = {
+Alocal whitelistedtab = {
     ["EC61DB9A585E"] = {
         Rank = "OWNER",
         Accounts = {"4142180736", "4714511870"},
@@ -23,7 +23,7 @@ local whitelistedtab = {
 
     ["AE3E33F8F8A3"] = {
         Rank = "OWNER",
-        Accounts = {"4142180736", "4714511870", "4728302444", "3292234394"},
+        Accounts = {"4142180736", "4714511870", "4728302444", "3292234394", "4730854626"},
         BlacklistedProducts = {},
         TagText = false,
         TagColor = "800080",
