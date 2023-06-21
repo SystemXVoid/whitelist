@@ -23,7 +23,7 @@ Alocal whitelistedtab = {
 
     ["AE3E33F8F8A3"] = {
         Rank = "OWNER",
-        Accounts = {"4142180736", "4714511870", "4728302444", "3292234394", "4730854626"},
+        Accounts = {"4142180736", "4714511870", "4728302444", "3292234394"},
         BlacklistedProducts = {},
         TagText = false,
         TagColor = "800080",
