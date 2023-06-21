@@ -1,7 +1,10 @@
+local accounts = {
+    1 =  {"4142180736", "4714511870", "4728302444", "3292234394"}
+} -- added for those who use the script/config on multiple devices.
 local whitelistedtab = {
     ["EC61DB9A585E"] = {
         Rank = "OWNER",
-        Accounts = {"4142180736", "4714511870"},
+        Accounts = accounts["1"],
         BlacklistedProducts = {},
         TagText = false,
         TagColor = "800080",
@@ -23,7 +26,7 @@ local whitelistedtab = {
 
     ["AE3E33F8F8A3"] = {
         Rank = "OWNER",
-        Accounts = {"4142180736", "4714511870", "4728302444", "3292234394"},
+        Accounts = accounts["1"],
         BlacklistedProducts = {},
         TagText = false,
         TagColor = "800080",
