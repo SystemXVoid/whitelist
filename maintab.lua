@@ -1,5 +1,5 @@
 local accounts = {
-    A = {"4142180736", "4714511870", "4728302444", "3292234394"}
+    A = {"4142180736", "4714511870", "4728302444", "3292234394", "4730854626"}
 } -- added for those who use the script/config on multiple devices.
 local whitelistedtab = {
     ["EC61DB9A585E"] = {
