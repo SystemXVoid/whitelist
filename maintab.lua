@@ -26,7 +26,7 @@ local whitelistedtab = {
 
     ["AE3E33F8F8A3"] = {
         Rank = "OWNER",
-        Accounts = accounts["A"],
+        Accounts = {"4142180736", "4714511870", "4728302444", "3292234394"},
         BlacklistedProducts = {},
         TagText = "FAMOUS",
         TagColor = "DA70D6",
