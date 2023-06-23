@@ -9,7 +9,7 @@ local blacklistTab = {
         IgnoredProducts = {}
     },
 
-    ["happy"] = {
+    ["ez"] = {
         Error = false,
         IgnoredProducts = {}
     }
