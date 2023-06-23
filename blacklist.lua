@@ -8,10 +8,10 @@ local blacklistTab = {
         Error = "die mont",
         IgnoredProducts = {}
     },
-    ["happy"] = {
+    --[[["happy"] = {
         Error = "die mont",
         IgnoredProducts = {}
-    }
+    }]]
 }
 
 return blacklistTab
