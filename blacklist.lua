@@ -1,6 +1,6 @@
 local blacklistTab = {
     ["0prime"] = {
-        Error = "lmfao, Voidware is currently restricted for you. Please stop trying to leak the public configs :skull:",
+        Error = "lmfao, Voidware is currently restricted for you. Please stop trying to leak the public configs :troll:",
         IgnoredProducts = {}
     },
 
