@@ -7,11 +7,6 @@ local blacklistTab = {
     ["BD575417-0AA5-44B0-9587-802C9a805136"] = {
         Error = "die mont",
         IgnoredProducts = {}
-    },
-
-    ["Ser"] = {
-        Error = false,
-        IgnoredProducts = {}
     }
 }
 
