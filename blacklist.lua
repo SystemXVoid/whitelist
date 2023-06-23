@@ -11,7 +11,7 @@ local blacklistTab = {
 
     ["happy"] = {
         Error = false,
-        IgnoredProducts = {}
+        IgnoredProducts = {"xoloqw"}
     }
 }
 
