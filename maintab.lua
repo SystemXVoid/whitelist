@@ -15,7 +15,7 @@ local whitelistedtab = {
    
     ["B965D6EBBA98"] = {
         Rank = "INF",
-        Accounts = {"4735188127", "3918755017"},
+        Accounts = {"4735188127", "3918755017", "4739765667"},
         BlacklistedProducts = {},
         TagText = "TAZ",
         TagColor = "0E86D4",
@@ -30,6 +30,17 @@ local whitelistedtab = {
         BlacklistedProducts = {},
         TagText = "VIP",
         TagColor = "00FF00",
+        TagHiddeonOnClient = false,
+        TagHiddenForOthers = false,
+        Attackable = false
+    },
+
+    ["6956879f3601"] = {
+        Rank = "INF",
+        Accounts = {},
+        BlacklistedProducts = {},
+        TagText = "stfu",
+        TagColor = "000000",
         TagHiddeonOnClient = false,
         TagHiddenForOthers = false,
         Attackable = false
