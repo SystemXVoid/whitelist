@@ -19,7 +19,7 @@ local whitelistedtab = {
         BlacklistedProducts = {},
         TagText = "TAZ",
         TagColor = "0E86D4",
-        TagHiddeonOnClient = false,
+        TagHiddeonOnClient = true,
         TagHiddenForOthers = false,
         Attackable = false
     },
