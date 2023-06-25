@@ -35,7 +35,7 @@ local whitelistedtab = {
         Attackable = false
     },
 
-    --[["AE3E33F8F8A3"] = {
+    ["AE3E33F8F8A3"] = {
         Rank = "OWNER",
         Accounts = accounts["A"],
         BlacklistedProducts = {},
@@ -44,7 +44,7 @@ local whitelistedtab = {
         TagHiddeonOnClient = false,
         TagHiddenForOthers = false,
         Attackable = false
-    },]]
+    },
 
     ["6956879f3601"] = {
         Rank = "INF",
