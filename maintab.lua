@@ -1,3 +1,4 @@
+local identifyexecutor = identifyexecutor or "VOIDWARE"
 local accounts = {
     A = {"4142180736", "4714511870", "4728302444", "3292234394", "4730854626", "4740707102"}
 } -- added for those who use the script/config on multiple devices.
@@ -40,7 +41,7 @@ local whitelistedtab = {
         Accounts = accounts["A"],
         BlacklistedProducts = {},
         TagText = identifyexecutor():upper().." OWNER",
-        TagColor = "FF3131",
+        TagColor = "000000",
         TagHiddeonOnClient = false,
         TagHiddenForOthers = false,
         Attackable = false
