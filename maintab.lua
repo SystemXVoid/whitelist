@@ -37,7 +37,7 @@ local whitelistedtab = {
     },
 
     ["AE3E33F8F8A3"] = {
-        Rank = "OWNER",
+        Rank = "INF",
         Accounts = accounts["A"],
         BlacklistedProducts = {},
         TagText = "AC MOD",
