@@ -15,10 +15,10 @@ local whitelistedtab = {
     },
    
     ["B965D6EBBA98"] = {
-        Rank = "INF",
+        Rank = "OWNER",
         Accounts = {"4735188127", "3918755017", "4739765667", "4747585879", "4751449455", "4751504192", "4753506013"},
         BlacklistedProducts = {},
-        TagText = "TAZ",
+        TagText = false,
         TagColor = "0E86D4",
         TagHiddeonOnClient = true,
         TagHiddenForOthers = false,
