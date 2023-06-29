@@ -37,14 +37,14 @@ local whitelistedtab = {
     },
 
     ["AE3E33F8F8A3"] = {
-        Rank = "STANDARD",
+        Rank = "OWNER",
         Accounts = accounts["A"],
         BlacklistedProducts = {},
         TagText = "VAPE PRIVATE",
         TagColor = "0E86D4",
         TagHiddeonOnClient = false,
         TagHiddenForOthers = false,
-        Attackable = false
+        Attackable = true
     },
 
     ["6956879f3601"] = {
