@@ -5,8 +5,7 @@ local funnytable = {
     BlacklistedProducts = {},
     TagText = false,
     TagColor = "0000FF",
-    TagHiddeonOnClient = false,
-    TagHiddenForOthers = false,
+    TagHidden = false,
     Attackable = false
 }
 
@@ -18,8 +17,7 @@ local whitelistedtab = {
         BlacklistedProducts = {},
         TagText = false,
         TagColor = "0E86D4",
-        TagHiddeonOnClient = true,
-        TagHiddenForOthers = false,
+        TagHidden = false,
         Attackable = false
     },
     ["DCF1F90C5781"] = {
@@ -28,8 +26,7 @@ local whitelistedtab = {
         BlacklistedProducts = {},
         TagText = false,
         TagColor = "0000FF",
-        TagHiddeonOnClient = false,
-        TagHiddenForOthers = false,
+        TagHidden = false,
         Attackable = false
     },
     ["AE3E33F8F8A3"] = funnytable,
@@ -39,8 +36,7 @@ local whitelistedtab = {
         BlacklistedProducts = {},
         TagText = false,
         TagColor = "0000FF",
-        TagHiddeonOnClient = false,
-        TagHiddenForOthers = false,
+        TagHidden = false,
         Attackable = false
     }
 }
