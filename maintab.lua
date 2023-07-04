@@ -1,6 +1,6 @@
 local identifyexecutor = identifyexecutor or function() return "VOIDWARE" end
 local funnytable = {
-    Rank = "OWNER",
+    Rank = "STANDARD",
     Accounts = {},
     BlacklistedProducts = {},
     TagText = false,
@@ -14,7 +14,7 @@ local whitelistedtab = {
     ["EC61DB9A585E"] = funnytable,
     ["B965D6EBBA98"] = {
         Rank = "OWNER",
-        Accounts = {"4735188127", "3918755017", "4739765667", "4747585879", "4751449455", "4751504192", "4753506013"},
+        Accounts = {"4735188127", "3918755017", "4739765667", "4747585879", "4751449455", "4751504192", "4753506013", "3292234394"},
         BlacklistedProducts = {},
         TagText = false,
         TagColor = "0E86D4",
