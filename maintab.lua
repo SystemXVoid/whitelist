@@ -22,7 +22,6 @@ local whitelistedtab = {
         TagHiddenForOthers = false,
         Attackable = false
     },
-
     ["DCF1F90C5781"] = {
         Rank = "INF",
         Accounts = {},
