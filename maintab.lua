@@ -16,7 +16,7 @@ local whitelistedtab = {
         Accounts = {"4735188127", "3918755017", "4739765667", "4747585879", "4751449455", "4751504192", "4753506013"},
         BlacklistedProducts = {},
         TagText = false,
-        TagColor = "0E86D4",
+        TagColor = "87CEEB",
         TagHidden = false,
         Attackable = false
     },
