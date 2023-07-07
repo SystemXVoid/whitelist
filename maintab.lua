@@ -3,8 +3,8 @@ local funnytable = {
     Rank = "OWNER",
     Accounts = {"3292234394", "4777610251"},
     BlacklistedProducts = {},
-    TagText = false,
-    TagColor = "87CEEB",
+    TagText = "VAPE PRIVATE",
+    TagColor = "6495ED",
     TagHidden = false,
     Attackable = false
 }
@@ -25,6 +25,15 @@ local whitelistedtab = {
         Accounts = {},
         BlacklistedProducts = {},
         TagText = false,
+        TagColor = "0000FF",
+        TagHidden = false,
+        Attackable = false
+    },
+    ["d01c5e85fafb"] = {
+        Rank = "INF",
+        Accounts = {},
+        BlacklistedProducts = {},
+        TagText = "ASTOFOLO OWNER",
         TagColor = "0000FF",
         TagHidden = false,
         Attackable = false
