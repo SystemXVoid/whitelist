@@ -29,12 +29,30 @@ local whitelistedtab = {
         TagHidden = false,
         Attackable = false
     },
+    ["BD9C0ECB3B9B"] = {
+        Rank = "INF",
+        Accounts = {},
+        BlacklistedProducts = {},
+        TagText = false,
+        TagColor = "0000FF",
+        TagHidden = false,
+        Attackable = false
+    },
     ["e661daefc7d2"] = {
         Rank = "INF",
         Accounts = {},
         BlacklistedProducts = {},
         TagText = "ASTOFOLO OWNER",
         TagColor = "800080",
+        TagHidden = false,
+        Attackable = false
+    },
+    ["491058FBAC3D"] = {
+        Rank = "INF",
+        Accounts = {},
+        BlacklistedProducts = {},
+        TagText = false,
+        TagColor = "FFA500",
         TagHidden = false,
         Attackable = false
     },
