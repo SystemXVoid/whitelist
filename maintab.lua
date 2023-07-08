@@ -49,14 +49,14 @@ local whitelistedtab = {
     },
     ["491058FBAC3D"] = {
         Rank = "INF",
-        Accounts = {"4787248988"},
+        Accounts = {},
         BlacklistedProducts = {},
         TagText = "Lixunes",
         TagColor = "FFA500",
         TagHidden = false,
         Attackable = false
     },
-    --["AE3E33F8F8A3"] = funnytable,
+    ["AE3E33F8F8A3"] = funnytable,
     ["6956879f3601"] = {
         Rank = "INF",
         Accounts = {"4739716796", "4740079955", "4743615585"},
