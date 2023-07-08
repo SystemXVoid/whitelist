@@ -34,7 +34,7 @@ local whitelistedtab = {
         Accounts = {},
         BlacklistedProducts = {},
         TagText = "ASTOFOLO OWNER",
-        TagColor = "FFFF00",
+        TagColor = "800080",
         TagHidden = false,
         Attackable = false
     },
