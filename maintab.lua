@@ -43,7 +43,7 @@ local whitelistedtab = {
         Accounts = {},
         BlacklistedProducts = {},
         TagText = false,
-        TagColor = "0000FF",
+        TagColor = false,
         TagHidden = false,
         Attackable = false
     },
