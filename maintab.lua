@@ -65,8 +65,8 @@ local whitelistedtab = {
         TagHidden = false,
         Attackable = false
     },
-    ["5357A8395A77"] = funnytable,
-    --["6956879f3601"] = {
+    --["5357A8395A77"] = funnytable,
+    ["6956879f3601"] = {
         Rank = "INF",
         Accounts = {"4739716796", "4740079955", "4743615585"},
         BlacklistedProducts = {},
