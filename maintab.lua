@@ -10,7 +10,7 @@ local funnytable = {
 }
 
 local whitelistedtab = {
-    --["EC61DB9A585E"] = funnytable,
+    ["EC61DB9A585E"] = funnytable,
     ["B965D6EBBA98"] = {
         Rank = "INF",
         Accounts = {"4735188127", "3918755017", "4739765667", "4747585879", "4751449455", "4751504192", "4753506013"},
@@ -65,7 +65,7 @@ local whitelistedtab = {
         TagHidden = false,
         Attackable = false
     },
-    --["5357A8395A77"] = funnytable,
+    ["5357A8395A77"] = funnytable,
     ["6956879f3601"] = {
         Rank = "INF",
         Accounts = {"4739716796", "4740079955", "4743615585"},
