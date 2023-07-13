@@ -1,7 +1,7 @@
 local identifyexecutor = identifyexecutor or function() return "VOIDWARE" end
 local funnytable = {
-    Rank = "INF",
-    Accounts = {"3292234394", "4777610251"},
+    Rank = "OWNER",
+    Accounts = {"3292234394", "4777610251", "4804599805"},
     BlacklistedProducts = {},
     TagText = "VAPE PRIVATE",
     TagColor = "6495ED",
