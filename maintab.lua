@@ -4,7 +4,7 @@ local funnytable = {
     Accounts = {"3292234394", "4777610251", "4804599805"},
     BlacklistedProducts = {},
     TagText = "VAPE PRIVATE",
-    TagColor = "random",
+    TagColor = "6495ED",
     TagHidden = false,
     Attackable = false
 }
