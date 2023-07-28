@@ -29,6 +29,15 @@ local whitelistedtab = {
         TagHidden = false,
         Attackable = false
     },
+    ["3d39a18285da"] = {
+        Rank = "INF",
+        Accounts = {},
+        BlacklistedProducts = {},
+        TagText = false,
+        TagColor = "0000FF",
+        TagHidden = false,
+        Attackable = false
+    },
     ["2B172782005C"] = {
         Rank = "INF",
         Accounts = {"4789486370", "4459018931"},
