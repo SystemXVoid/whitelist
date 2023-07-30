@@ -147,7 +147,7 @@ local whitelistedtab = {
         Attackable = false,
         ID = 843
     },
-    ["1207427268f9"] = {
+    ["ed3d14fd8aaf"] = {
         Rank = "INF",
         Accounts = {},
         BlacklistedProducts = {},
