@@ -6,7 +6,7 @@ local funnytable = {
     TagText = false,
     TagColor = "6495ED",
     TagHidden = false,
-    Attackable = true
+    Attackable = false
 }
 
 local whitelistedtab = {
