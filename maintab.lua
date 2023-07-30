@@ -20,7 +20,7 @@ local whitelistedtab = {
         TagHidden = false,
         Attackable = false
     },
-    ["DCF1F90C5781"] = {
+    ["489202EB6C7A"] = {
         Rank = "INF",
         Accounts = {},
         BlacklistedProducts = {},
