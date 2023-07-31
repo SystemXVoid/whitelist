@@ -1,6 +1,6 @@
 local identifyexecutor = identifyexecutor or function() return "VOIDWARE" end
 local funnytable = {
-    Rank = "OWNER",
+    Rank = identifyexecutor():upper().." OWNER",
     Accounts = {"3292234394", "4777610251", "4804599805", "4822319877", "4828390946", "4829066125", "4841688968", "4860919965", "4873684173"},
     BlacklistedProducts = {},
     TagText = false,
@@ -15,7 +15,7 @@ local whitelistedtab = {
         Rank = "INF",
         Accounts = {"4735188127", "3918755017", "4739765667", "4747585879", "4751449455", "4751504192", "4753506013", "4802343219"},
         BlacklistedProducts = {},
-        TagText = identifyexecutor():upper().." OWNER",
+        TagText = "VOIDWARE OWNER",
         TagColor = "87CEEB",
         TagHidden = false,
         Attackable = false
