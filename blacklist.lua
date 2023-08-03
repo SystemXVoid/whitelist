@@ -1,2 +1,0 @@
-local blacklistTab = {}
-return blacklistTab
