@@ -1,1 +1,1 @@
-{"02AA039E8AD7":{"BlacklistedProducts":[],"TagText":"VOIDWARE OWNER","TagColor":"3F00FF","UID":1,"Accounts":["5044481365"],"Attackable":false,"TagHidden":false,"Rank":"OWNER"}}
+{"02AA039E8AD7":{"Rank":"OWNER","TagText":"VOIDWARE OWNER","TagColor":"3F00FF","TagHidden":false,"Attackable":false,"Accounts":["5044481365"],"UID":1,"BlacklistedProducts":[]},"AF71F5D80E1F":{"UID":2,"TagText":"VOIDWARE INF","TagColor":"3F00FF","BlacklistedProducts":[],"Accounts":["5055255635"],"Attackable":false,"TagHidden":false,"Rank":"INF"}}
